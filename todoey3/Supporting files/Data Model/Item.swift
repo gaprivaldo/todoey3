@@ -9,8 +9,8 @@
 import Foundation
 
 class Item: Encodable {
-    var title:String = ""
-    var done:Bool=false
+    var title: String = ""
+    var done: Bool = false
     
     //    @objc dynamic var title: String = ""
     //    @objc dynamic var done: Bool = false
